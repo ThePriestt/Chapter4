@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Chapter4\08Task ForSolution\bin\Debug\netcoreapp2.2\08Task ForSolution.deps.json
+C:\Users\PC\source\repos\Chapter4\08Task ForSolution\bin\Debug\netcoreapp2.2\08Task ForSolution.runtimeconfig.json
+C:\Users\PC\source\repos\Chapter4\08Task ForSolution\bin\Debug\netcoreapp2.2\08Task ForSolution.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Chapter4\08Task ForSolution\bin\Debug\netcoreapp2.2\08Task ForSolution.dll
+C:\Users\PC\source\repos\Chapter4\08Task ForSolution\bin\Debug\netcoreapp2.2\08Task ForSolution.pdb
+C:\Users\PC\source\repos\Chapter4\08Task ForSolution\obj\Debug\netcoreapp2.2\08Task ForSolution.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Chapter4\08Task ForSolution\obj\Debug\netcoreapp2.2\08Task ForSolution.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Chapter4\08Task ForSolution\obj\Debug\netcoreapp2.2\08Task ForSolution.AssemblyInfo.cs
+C:\Users\PC\source\repos\Chapter4\08Task ForSolution\obj\Debug\netcoreapp2.2\08Task ForSolution.dll
+C:\Users\PC\source\repos\Chapter4\08Task ForSolution\obj\Debug\netcoreapp2.2\08Task ForSolution.pdb
